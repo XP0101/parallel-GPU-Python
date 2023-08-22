@@ -1,2 +1,2 @@
 # parallel-GPU-Python
-resize image
+resize image using seam carving algorithm
